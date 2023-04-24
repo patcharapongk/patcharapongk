@@ -7,6 +7,7 @@ My name is Patcharapong, a computer engineering student at Chulalongkorn Univers
 
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>
 </div>
 
 <h3> Frontend Develeopment </h3>
